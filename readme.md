@@ -1,3 +1,5 @@
+# Gemini App for Retriving data from Sql
+
 **How to Setup**
 
 1. Create a virtual environment using `virtualenv venv`
@@ -6,5 +8,9 @@
 4. Add a `.env` file in the directory to store the API keys for Gemini
 5. Run the app using `streamlit run app.py` or `streamlit run vision.py` depending on the app you need
 
-Contributed by: <br>
+**Outputs:**
+![main page](./assets/image.png) <br>
+![Query Output](./assets/image1.png)<br>
+
+**Contributed by:** <br>
 <a href="https://github.com/tanmay-vig"><img src="https://avatars.githubusercontent.com/u/110380506?v=4" width="48" height="48" alt="Tanmay Vig" style="border-radius:50%;"/></a>
